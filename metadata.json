@@ -1,0 +1,7 @@
+{
+  "name": "Sentinel - Drowsiness Monitor",
+  "description": "Real-time AI drowsiness detection system using Gemini 2.5 Flash. Detects yawning, eye rubbing, and head nodding to ensure user alertness.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
